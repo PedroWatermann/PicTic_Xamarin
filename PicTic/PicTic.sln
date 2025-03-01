@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicTic.Android", "PicTic.Android\PicTic.Android.csproj", "{EF166E62-739A-46B8-90CD-87E25597CFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicTic", "PicTic\PicTic.csproj", "{4E94D267-F85E-469F-A245-D70EFD1F094A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF166E62-739A-46B8-90CD-87E25597CFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF166E62-739A-46B8-90CD-87E25597CFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF166E62-739A-46B8-90CD-87E25597CFB5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF166E62-739A-46B8-90CD-87E25597CFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF166E62-739A-46B8-90CD-87E25597CFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF166E62-739A-46B8-90CD-87E25597CFB5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4E94D267-F85E-469F-A245-D70EFD1F094A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E94D267-F85E-469F-A245-D70EFD1F094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E94D267-F85E-469F-A245-D70EFD1F094A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4E94D267-F85E-469F-A245-D70EFD1F094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E94D267-F85E-469F-A245-D70EFD1F094A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E94D267-F85E-469F-A245-D70EFD1F094A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132C834E-DB57-480D-AFD6-BD5B18DA06BB}
+	EndGlobalSection
+EndGlobal

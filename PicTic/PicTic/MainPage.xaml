@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    
+<!-- 
+- Permissões:
+    - CAMERA
+    - READ_EXTERNAL_STORAGE
+    - WRITE_EXTERNAL_STORAGE
+
+- Adicionado ao AndroidManifest.xml para emular a câmera:
+    - <queries>
+          <intent>
+			  <action android:name="android.media.action.IMAGE_CAPTURE"/>
+		  </intent>
+	  </queries>
+-->
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PicTic.MainPage">
+
+    <StackLayout>
+        
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Vamos tirar uma foto?" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Button Text="Tirar Foto"
+                x:Name="btnFoto"
+                Clicked="btnFoto_Clicked"/>
+
+        <Button Text="Pegar Foto"
+                x:Name="btnPegar"
+                Clicked="btnPegar_Clicked"/>
+
+        <Image x:Name="imgFoto"/>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\bin\Debug\netstandard2.0\PicTic.deps.json
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\bin\Debug\netstandard2.0\PicTic.dll
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\bin\Debug\netstandard2.0\PicTic.pdb
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.dll
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\refint\PicTic.dll
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\PicTic.pdb
+C:\Users\Aluno\source\repos\PedroWatermann\PicTic_Xamarin\PicTic\PicTic\obj\Debug\netstandard2.0\ref\PicTic.dll
